@@ -1,0 +1,18 @@
+* {
+    background-color:darksalmon;
+    color:darkmagenta;
+    text-align: center;
+}
+
+#myself {
+    text-align: center;
+    color:blueviolet;
+}
+
+#quote {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+  }
